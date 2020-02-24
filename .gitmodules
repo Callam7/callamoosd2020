@@ -1,0 +1,6 @@
+[submodule "oosd-course-materials"]
+	path = oosd-course-materials
+	url = https://github.com/otago-polytechnic-bit-courses/oosd-course-materials.git
+[submodule "oosd-practicals-Callam7"]
+	path = oosd-practicals-Callam7
+	url = https://github.com/otago-polytechnic-bit-courses/oosd-practicals-Callam7.git
